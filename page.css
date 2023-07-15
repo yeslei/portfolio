@@ -1,10 +1,14 @@
+body{
+  background-color:  rgb(138, 43, 226, 0.7);
+  
+}
 *{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 nav{
-  padding: 10px 8px;
+  padding: 10px 8px;                                                     
   margin-top: 19px;
   border: 2px solid black;
   border-radius: 30px;
@@ -59,8 +63,12 @@ nav {
   width: 100%;
 }
 
-
-
+.ok{
+  margin: 90px;
+  text-align: center;
+  font-family:'Poppins', sans-serif;
+ 
+}
 
 
 
